@@ -1,0 +1,6 @@
+# Unneccessary build artifacts
+target/
+
+# IDE Files
+.idea/
+*.iml
