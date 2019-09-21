@@ -1,5 +1,9 @@
 # IBIO
 
+[![Version](https://jitpack.io/v/vardy/IBIO.svg)](https://jitpack.io/#vardy/IBIO)
+[![Downloads](https://img.shields.io/jitpack/dm/github/vardy/IBIO?style=flat-square)](https://github.com/vardy/IBIO)
+[![License](https://img.shields.io/github/license/vardy/IBIO?style=flat-square)](https://github.com/vardy/IBIO/blob/master/LICENSE) 
+
 ## Overview
 
 This class provides a simplified interface between
