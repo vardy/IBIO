@@ -1,7 +1,6 @@
 # IBIO
 
 [![Version](https://jitpack.io/v/vardy/IBIO.svg)](https://jitpack.io/#vardy/IBIO)
-[![Downloads](https://img.shields.io/jitpack/dm/github/vardy/IBIO?label=Maven%20Downloads)](https://github.com/vardy/IBIO)
 [![License](https://img.shields.io/github/license/vardy/IBIO?label=License)](https://github.com/vardy/IBIO/blob/master/LICENSE) 
 
 ## Overview
